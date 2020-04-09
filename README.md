@@ -1,4 +1,10 @@
 # 3amFam
+## How to push commits
+```
+git add .
+git commit -m "message"
+git push
+```
 ## Screenshots
 sadsadhasjd
 
